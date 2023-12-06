@@ -45,9 +45,7 @@ To run this project locally, follow these steps:
    npm run dev
    http://localhost:5173/
 5. Manage User Permission:
-   
-   Email ( can use random emails as long as they use the email writing format )
-   
-   Password ( can use random passwords as long as they are at least 8 characters long )
+   - Email ( can use random emails as long as they use the email writing format ).
+   - Password ( can use random passwords as long as they are at least 8 characters long ).
    
     
