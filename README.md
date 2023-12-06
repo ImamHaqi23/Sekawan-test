@@ -1,6 +1,6 @@
 # Dashboard Kit
 
-Welcome to Dashboard Kit! This project provides a dashboard application built with React.
+Welcome to Dashboard Kit! This project provides a dashboard application built with React and Tailwind CSS.
 
 ## Features
 
